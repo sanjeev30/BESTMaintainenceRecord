@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BEST Maintenance Record</string>
+    <string name="bus_no">Enter Bus No.</string>
+    <string name="history_type">Select History Type</string>
+    <string name="unit">Unit</string>
+    <string name="defect">Defect</string>
+    <string name="check_status">Check Status</string>
+    <string name="wait">Please Wait…</string>
+    <string name="length">Bus Number Must Be 4 Digit Number</string>
+    <string name="downloading_data">Retrieving Data From Server</string>
+    <string name="bus_no_label">Bus Number</string>
+    <string name="rto_no_label">RTO Number</string>
+    <string name="header">Heading</string>
+    <string name="dateFitted">Date Fitted</string>
+    <string name="dateRemoved">Date Removed</string>
+    <string name="kms">Kilometers</string>
+    <string name="error">Error</string>
+    <string name="home">Home</string>
+</resources>
